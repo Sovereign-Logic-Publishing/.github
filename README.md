@@ -27,7 +27,3 @@ Para consultas sobre licencias, validación de acceso o alianzas:
 ---
 *© 2026 Sovereign Logic Publishing | Carlos Suarez - The Architect*
 ---
-*© 2026 Sovereign Logic Publishing | Carlos Suarez - The Architect*
----
-*© 2026 Sovereign Logic Publishing | Carlos Suarez - The Architect*
-Infraestructura oficial y recursos de ingeniería de Sovereign Logic Publishing para el ecosistema IA Sin Programar 2026.
