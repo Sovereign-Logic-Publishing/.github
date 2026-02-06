@@ -23,8 +23,10 @@ Nuestras arquitecturas están optimizadas para los modelos de frontera más pote
 
 ### 📩 Contacto Editorial
 Para consultas sobre licencias o validación técnica de los activos del manual:
-📬 **Email:** [info.sovereignlp@gmail.com](mailto:info.sovereignlp@gmail.com)
+📬 **Email:** info.sovereignlp@gmail.com
 
+---
+*© 2026 Sovereign Logic Publishing | Carlos Suarez - The Architect*
 ---
 *© 2026 Sovereign Logic Publishing | Carlos Suarez - The Architect*
 Infraestructura oficial y recursos de ingeniería de Sovereign Logic Publishing para el ecosistema IA Sin Programar 2026.
